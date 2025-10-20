@@ -1,0 +1,2 @@
+.logo { height:52px; width:auto; display:block; margin:0 0 8px; }
+@media (min-width:720px){ .logo{ height:64px; } }
